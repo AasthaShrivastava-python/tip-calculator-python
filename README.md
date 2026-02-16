@@ -1,2 +1,17 @@
 # tip-calculator-python
-A simple tip calculator built using Python. Part of 100 days of code bootcamp (day2) . It takes input for : 1.) what percent of tip user wants to give (10 , 12 etc.) 2.) the bill will be split among how many people 3.) and lastly , the total bill amount . The program then tells what each person will have to pay
+This is a simple command-line tip calculator built using Python.
+
+## Features
+- Takes total bill input
+- Calculates tip percentage
+- Splits bill among multiple people
+- Displays final per-person amount
+
+## Concepts Used
+- User Input
+- Type Conversion
+- Arithmetic Operations
+- f-strings
+- Variables
+
+Part of 100 Days of Code Bootcamp – Day 2.
